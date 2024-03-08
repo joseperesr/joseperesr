@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/66388384/169880475-5a3fe701-f2d6-4601-a1ec-aa45a1a4d795.jpeg" alt="1_CWFkh5z8oa6dZfn5_gkKKQ" target="_blank" rel="noopener" loading="lazy" class="cosmos-image">
-
-<p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-</p>
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
 ### Hi there, I'm Jose Luis Pérez 👋
 
 I am studying the Master in Big Data and Analytics from Three Points at the University of Barcelona, España. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
@@ -61,3 +53,10 @@ Tools and Technologies:
 IDEs:
 
 <img src="https://camo.githubusercontent.com/c044ae9d0419850e7f2385c22ea5de56e101e6a616789bd35d2d8fa137a63642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465">  <img src="https://camo.githubusercontent.com/74f65e93421cf73232900b1b8662759462e1e69542bec33734cbfd69c88cffc6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079636861726d2d3134333f7374796c653d666f722d7468652d6261646765266c6f676f3d7079636861726d266c6f676f436f6c6f723d626c61636b26636f6c6f723d626c61636b266c6162656c436f6c6f723d677265656e">  <img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465">  <img src="https://camo.githubusercontent.com/d47610ee883284eef17c8a534a7e3948299bbdbcc35dd6da85e792448f9e440d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465">
+
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+
