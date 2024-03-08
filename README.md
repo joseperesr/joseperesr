@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 I am studying the Master in Big Data and Analytics from Three Points at the University of Barcelona, España. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
-### My Research Interest:
+#### My Research Interest:
 
 - Outlying Aspect Mining
 - Classification
@@ -34,7 +34,7 @@ I am studying the Master in Big Data and Analytics from Three Points at the Univ
 - Anomaly Detection
 - Similarity Measure
 
-### I am open to:
+#### I am open to:
 
 - any collaboration work,
 - machine learning projects(development or research),
@@ -43,6 +43,7 @@ I am studying the Master in Big Data and Analytics from Three Points at the Univ
 
 ## Skills:
 Languages:
+
 <img src="https://camo.githubusercontent.com/94255ec6b3c759a685d09b160102f6780416030ba75119a1d9d05cd1d2345e5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
 
