@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://user-images.githubusercontent.com/66388384/169880475-5a3fe701-f2d6-4601-a1ec-aa45a1a4d795.jpeg" alt="1_CWFkh5z8oa6dZfn5_gkKKQ" target="_blank" rel="noopener" loading="lazy" class="cosmos-image">
+
+
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
